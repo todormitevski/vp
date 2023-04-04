@@ -348,6 +348,7 @@
             this.tbCodeToEnter.Name = "tbCodeToEnter";
             this.tbCodeToEnter.Size = new System.Drawing.Size(121, 20);
             this.tbCodeToEnter.TabIndex = 0;
+            this.tbCodeToEnter.TextChanged += new System.EventHandler(this.tbCodeToEnter_TextChanged);
             // 
             // label8
             // 
@@ -374,6 +375,7 @@
             this.lbTickets.Name = "lbTickets";
             this.lbTickets.Size = new System.Drawing.Size(220, 251);
             this.lbTickets.TabIndex = 2;
+            this.lbTickets.SizeChanged += new System.EventHandler(this.lbTickets_SizeChanged);
             // 
             // groupBox3
             // 
@@ -493,6 +495,7 @@
             this.Controls.Add(this.lbTeams);
             this.Name = "Form1";
             this.Text = "Спортска обложувалница";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudCoef2)).EndInit();

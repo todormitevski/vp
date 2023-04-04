@@ -11,6 +11,26 @@ namespace SportsBets
 {
     public partial class PrintForm : Form
     {
+        public List<Ticket> Games { get; set; }
+        public decimal Amount { get; set; }
+        public decimal TotalCoef { get; set; }
+        public decimal Profit { get; set; }
+
+        public PrintForm(List<Ticket> games, decimal amount, decimal totalCoef, decimal profit)
+        {
+            InitializeComponent();
+            Games = games;
+            Amount = amount;
+            TotalCoef = totalCoef;
+            Profit = profit;
+
+            lblCoef.Text = TotalCoef.ToString();
+            lblUplata.Text = Amount.ToString();
+            lblDobivka.Text = Profit.ToString();
+            decimal tax = profit * 0.10M;
+            lblDanok.Text = tax.ToString();
+        }
+
         public PrintForm()
         {
             InitializeComponent();

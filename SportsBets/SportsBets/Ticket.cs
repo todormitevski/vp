@@ -15,5 +15,10 @@ namespace SportsBets
             Game = game;
             Type = type;
         }
+
+        public override string ToString()
+        {
+            return String.Format("{0} {1}", Game.ToString(), Type == 0 ? "1" : Type == 1 ? "X" : "2");
+        }
     }
 }

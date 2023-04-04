@@ -12,6 +12,9 @@ namespace SportsBets
 {
     public partial class Form1 : Form
     {
+        public decimal TotalCoef { get; set; } = 1;
+        public decimal Profit { get; set; } = 1;
+
         public Form1()
         {
             InitializeComponent();
@@ -61,22 +64,83 @@ namespace SportsBets
 
         private void btnAddGame_Click(object sender, EventArgs e)
         {
-
+            if (lbGames.SelectedIndex != -1 && cbTip.SelectedIndex != -1)
+            {
+                Game game = lbGames.SelectedItem as Game;
+                int type = cbTip.Text == "1" ? 0 : (cbTip.Text == "X" ? 1 : 2);
+                Ticket ticket = new Ticket(game, type);
+                lbTickets.Items.Add(ticket);
+                lbGames.ClearSelected();
+                tbCodeToEnter.Clear();
+                updateMoneyData();
+            }
         }
 
         private void nudPayment_ValueChanged(object sender, EventArgs e)
         {
-            recalculateCoefficients();
+            updateMoneyData();
         }
 
         private void btnPrint_Click(object sender, EventArgs e)
         {
+            List<Ticket> games = new List<Ticket>();
+            for(int i = 0; i<lbTickets.Items.Count; i++)
+            {
+                games.Add(lbTickets.Items[i] as Ticket);
+            }
+            PrintForm printForm = new PrintForm(games,nudPayment.Value,TotalCoef,Profit);
 
         }
 
         private void nudPayment_KeyUp(object sender, KeyEventArgs e)
         {
-            recalculateCoefficients();
+            updateMoneyData();
+        }
+
+        private void tbCodeToEnter_TextChanged(object sender, EventArgs e)
+        {
+            String codeToSearch = tbCodeToEnter.Text;
+            for (int i = 0; i < lbGames.Items.Count; i++)
+            {
+                Game game = lbGames.Items[i] as Game;
+                if(game.Code == codeToSearch)
+                {
+                    lbGames.SelectedIndex = i;
+                    break;
+                }
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            lbTeams.Items.Add(new Team("Barca","Spain"));
+            lbTeams.Items.Add(new Team("Real Madrid","Spain"));
+        }
+
+        private decimal recalculateCoeffs()
+        {
+            decimal product = 1;
+            for (int i = 0; i < lbTickets.Items.Count; i++)
+            {
+                Ticket ticket = lbTickets.Items[i] as Ticket;
+                int type = ticket.Type;
+                Game game = ticket.Game;
+                product *= type == 0 ? game.Coef1 : type == 1 ? game.CoefX : game.Coef2;
+            }
+            return product;
+        }
+
+        private void updateMoneyData()
+        {
+            TotalCoef = recalculateCoeffs();
+            Profit = TotalCoef * nudPayment.Value;
+            tbTotalCoef.Text = TotalCoef.ToString();
+            tbProfit.Text = Profit.ToString();
+        }
+
+        private void lbTickets_SizeChanged(object sender, EventArgs e)
+        {
+            tbTotalCoef.Text = recalculateCoeffs().ToString();
         }
     }
 }
