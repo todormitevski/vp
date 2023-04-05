@@ -265,7 +265,7 @@ namespace Pizzaman
 
         private void tbTotalPaid_TextChanged(object sender, EventArgs e)
         {
-
+            calcPayment();
         }
     }
 }
