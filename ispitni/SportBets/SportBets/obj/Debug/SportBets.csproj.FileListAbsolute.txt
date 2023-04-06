@@ -3,11 +3,11 @@ E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\bin\Debug\Spo
 E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\bin\Debug\SportBets.pdb
 E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.csproj.AssemblyReference.cache
 E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.csproj.SuggestedBindingRedirects.cache
-E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.Form1.resources
-E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.Form2.resources
-E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.Form3.resources
 E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.Properties.Resources.resources
 E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.csproj.GenerateResource.cache
 E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.csproj.CoreCompileInputs.cache
 E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.exe
 E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.pdb
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.SportBet.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.PrintForm.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\SportBets\SportBets\obj\Debug\SportBets.TeamForm.resources
