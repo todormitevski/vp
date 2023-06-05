@@ -1,0 +1,11 @@
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\BallGolf\BallGolf\bin\Debug\BallGolf.exe.config
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\BallGolf\BallGolf\bin\Debug\BallGolf.exe
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\BallGolf\BallGolf\bin\Debug\BallGolf.pdb
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\BallGolf\BallGolf\obj\Debug\BallGolf.csproj.AssemblyReference.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\BallGolf\BallGolf\obj\Debug\BallGolf.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\BallGolf\BallGolf\obj\Debug\BallGolf.BallGolf.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\BallGolf\BallGolf\obj\Debug\BallGolf.Properties.Resources.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\BallGolf\BallGolf\obj\Debug\BallGolf.csproj.GenerateResource.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\BallGolf\BallGolf\obj\Debug\BallGolf.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\BallGolf\BallGolf\obj\Debug\BallGolf.exe
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\BallGolf\BallGolf\obj\Debug\BallGolf.pdb

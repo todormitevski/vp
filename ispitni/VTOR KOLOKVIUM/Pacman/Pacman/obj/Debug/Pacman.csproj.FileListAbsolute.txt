@@ -1,0 +1,11 @@
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Pacman\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Pacman\Pacman\obj\Debug\Pacman.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Pacman\Pacman\obj\Debug\Pacman.HoodPacman.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Pacman\Pacman\bin\Debug\Pacman.exe.config
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Pacman\Pacman\bin\Debug\Pacman.exe
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Pacman\Pacman\bin\Debug\Pacman.pdb
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Pacman\Pacman\obj\Debug\Pacman.exe
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Pacman\Pacman\obj\Debug\Pacman.pdb

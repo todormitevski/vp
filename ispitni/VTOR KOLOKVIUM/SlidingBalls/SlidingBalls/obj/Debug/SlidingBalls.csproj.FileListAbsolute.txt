@@ -1,0 +1,11 @@
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\SlidingBalls\SlidingBalls\bin\Debug\SlidingBalls.exe.config
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\SlidingBalls\SlidingBalls\bin\Debug\SlidingBalls.exe
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\SlidingBalls\SlidingBalls\bin\Debug\SlidingBalls.pdb
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.csproj.AssemblyReference.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.Form1.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.Properties.Resources.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.csproj.GenerateResource.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.exe
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.pdb

@@ -1,0 +1,11 @@
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\TickingPies\TickingPies\bin\Debug\TickingPies.exe.config
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\TickingPies\TickingPies\bin\Debug\TickingPies.exe
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\TickingPies\TickingPies\bin\Debug\TickingPies.pdb
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\TickingPies\TickingPies\obj\Debug\TickingPies.csproj.AssemblyReference.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\TickingPies\TickingPies\obj\Debug\TickingPies.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\TickingPies\TickingPies\obj\Debug\TickingPies.Form1.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\TickingPies\TickingPies\obj\Debug\TickingPies.Properties.Resources.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\TickingPies\TickingPies\obj\Debug\TickingPies.csproj.GenerateResource.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\TickingPies\TickingPies\obj\Debug\TickingPies.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\TickingPies\TickingPies\obj\Debug\TickingPies.exe
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\TickingPies\TickingPies\obj\Debug\TickingPies.pdb

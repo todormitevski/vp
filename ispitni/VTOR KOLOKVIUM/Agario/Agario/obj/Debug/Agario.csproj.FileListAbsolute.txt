@@ -1,0 +1,11 @@
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Agario\Agario\bin\Debug\Agario.exe.config
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Agario\Agario\bin\Debug\Agario.exe
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Agario\Agario\bin\Debug\Agario.pdb
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Agario\Agario\obj\Debug\Agario.csproj.AssemblyReference.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Agario\Agario\obj\Debug\Agario.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Agario\Agario\obj\Debug\Agario.HoodAgario.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Agario\Agario\obj\Debug\Agario.Properties.Resources.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Agario\Agario\obj\Debug\Agario.csproj.GenerateResource.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Agario\Agario\obj\Debug\Agario.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Agario\Agario\obj\Debug\Agario.exe
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\Agario\Agario\obj\Debug\Agario.pdb

@@ -1,0 +1,11 @@
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\HalfCircles\HalfCircles\bin\Debug\HalfCircles.exe.config
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\HalfCircles\HalfCircles\bin\Debug\HalfCircles.exe
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\HalfCircles\HalfCircles\bin\Debug\HalfCircles.pdb
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\HalfCircles\HalfCircles\obj\Debug\HalfCircles.csproj.AssemblyReference.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\HalfCircles\HalfCircles\obj\Debug\HalfCircles.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\HalfCircles\HalfCircles\obj\Debug\HalfCircles.Form1.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\HalfCircles\HalfCircles\obj\Debug\HalfCircles.Properties.Resources.resources
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\HalfCircles\HalfCircles\obj\Debug\HalfCircles.csproj.GenerateResource.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\HalfCircles\HalfCircles\obj\Debug\HalfCircles.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\HalfCircles\HalfCircles\obj\Debug\HalfCircles.exe
+E:\Visual Studio Code\.NET PROGRAMS\vp\ispitni\VTOR KOLOKVIUM\HalfCircles\HalfCircles\obj\Debug\HalfCircles.pdb
